@@ -1,6 +1,6 @@
 # FinLit
 ## 1. Introduction
-This manual provides a comprehensive guide to using and understanding FinLit, a Python-based financial tracking tool. FinLit was created with the intention to improve the financial literacy of people. FinLit is a work in progress so far, with the encryption and decryption process still being refined, and new features such as user authentication, categories and tags, visualizations, and more coming soon.
+This manual provides a comprehensive guide to using and understanding FinLit, a Python-based financial tracking tool. FinLit was created with the intention to improve the financial literacy of people. FinLit is a work in progress so far, with the encryption and decryption processes still being refined, and new features such as user authentication, categories and tags, visualizations, and more coming soon.
 ## 2. Installation
 Before you can use FinLit, you will need to install Python 3.x. Here are the steps to get started:
 1. Clone this repository to your computer: git clone https://github.com/phcj03/FinLit.git
